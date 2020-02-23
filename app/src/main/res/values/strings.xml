@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DiabApp</string>
+    <string name="title_activity_doctors_screen">DoctorsScreen</string>
+</resources>
